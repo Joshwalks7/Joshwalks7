@@ -2,7 +2,7 @@
 
 Hello there!
 
-I'm Josh, a junior at Brigham Young University-Idaho pursing a degree in Software Engineering with an emphasis in Full Stack Devlopment. To me, there's something special about being able to design/create web apps from scratch. Aside from building web pages, I love to watch movies, collect LEGO, and spend time with my family and friends. 
+I'm Josh, a junior at Brigham Young University-Idaho pursing a degree in Software Engineering with an emphasis in Full Stack Development. To me, there's something special about being able to design/create web apps from scratch. Aside from building web pages, I love to watch movies, collect LEGO, and spend time with my family and friends. 
 
 # Skills and Technology
 Proficient in: Python, HTML, CSS, JavaScript, MySQL
