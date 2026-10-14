@@ -32,4 +32,4 @@ Movie Trivia Site -- Fun site that utilizes an API to gather/display movie infor
 - Repo: https://github.com/Joshwalks7/wdd131/tree/main/movietrivia
     
 # GitHub Stats
-- 410 contributions in the past year
+- 650 contributions in the past year
